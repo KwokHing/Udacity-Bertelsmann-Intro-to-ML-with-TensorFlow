@@ -36,3 +36,6 @@ The modified census dataset consists of approximately 32,000 data points, with e
 **Target Variable**
 
 * income: Income Class (<=50K, >50K)
+
+## Getting started
+Run `finding_donors.ipynb` on a jupyter notebook environment, or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KwokHing/SHAP-XAI-Demo/blob/main/Explainable_AI_Graded_Hands_on_Exercise.ipynb)
