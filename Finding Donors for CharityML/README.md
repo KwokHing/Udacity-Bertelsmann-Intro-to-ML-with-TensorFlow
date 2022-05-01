@@ -38,4 +38,4 @@ The modified census dataset consists of approximately 32,000 data points, with e
 * income: Income Class (<=50K, >50K)
 
 ## Getting started
-Run `finding_donors.ipynb` on a jupyter notebook environment, or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/KwokHing/Udacity-Bertelsmann-Intro-to-ML-with-TensorFlow/blob/main/Finding%20Donors%20for%20CharityML/finding_donors.ipynb)
+Run `finding_donors.ipynb` on a jupyter notebook environment, or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/KwokHing/Udacity-Bertelsmann-Intro-to-ML-with-TensorFlow/blob/main/Finding%20Donors%20for%20CharityML/finding_donors.ipynb)
