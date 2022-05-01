@@ -7,7 +7,7 @@ This project requires Python 3.x and the following Python libraries installed:
 - matplotlib
 - scikit-learn
 
-Recommended to install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+Recommended to install [Anaconda](https://www.anaconda.com/products/distribution), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. Alternatively, you can make use of [Google Colaboratory](https://colab.research.google.com/), which allows you to write and execute Python / iPython notebooks in your browser.
 
 **Code**
 
