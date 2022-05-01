@@ -10,9 +10,11 @@ This project requires Python 3.x and the following Python libraries installed:
 Recommended to install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
 **Code**
+
 You will also be required to use the included visuals.py Python file and the census.csv dataset file to run the notebook. 
 
 **Data**
+
 The modified census dataset consists of approximately 32,000 data points, with each datapoint having 13 features. The dataset for this project originates from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Census+Income). The datset was donated by Ron Kohavi and Barry Becker, after being published in the article _"Scaling Up the Accuracy of Naive-Bayes Classifiers: A Decision-Tree Hybrid"_. You can find the article by Ron Kohavi [online](https://www.aaai.org/Papers/KDD/1996/KDD96-033.pdf)
 
 **Features**
