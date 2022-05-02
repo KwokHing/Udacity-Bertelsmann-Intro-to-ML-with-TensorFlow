@@ -11,7 +11,7 @@ Recommended to install [Anaconda](https://www.anaconda.com/products/distribution
 
 **Code**
 
-You will also be required to use the included visuals.py Python file and the census.csv dataset file to run the notebook. 
+You will also be required to use the included `visuals.py` Python file and the `census.csv` dataset file to run the notebook. 
 
 **Data**
 
